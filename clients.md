@@ -11,8 +11,8 @@ CREATE TABLE IF NOT EXISTS `clients` (
 
 INSERT INTO `clients` (`id`, `name`, `lastname`, `dbirth`, `gender`, `phone`) VALUES
 (2, 'Douglas', 'Williams', '1937-01-13', 'M', '5506059'),
-(4, 'Barbara', 'Stolz', '1967-11-19', 'F', '5597036'),
-(7, 'Thomas', 'E. Abbott', '1943-08-19', 'M', '8354290'),
+(4, 'Mary', 'Stolz', '1967-11-19', 'F', '5597036'),
+(7, 'Terry', 'E. Abbott', '1943-08-19', 'M', '8354290'),
 (10, 'Lowell', 'Harrison', '1996-03-10', 'M', '3015968'),
 (12, 'Jeffrey', 'Vaughn', '1964-02-08', 'M', '2305184'),
 (15, 'Gregory', 'Sperber', '1945-07-03', 'M', '7569099'),
